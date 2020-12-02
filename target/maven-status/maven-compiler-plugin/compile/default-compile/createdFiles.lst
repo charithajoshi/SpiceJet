@@ -1,0 +1,10 @@
+pageobjects\HomePage.class
+pageobjects\SpiceClub.class
+pageobjects\FlightSearch.class
+pageobjects\BorderLinks.class
+pageobjects\FooterLinks.class
+resources\BaseClass.class
+pageobjects\HomePageSignUp.class
+pageobjects\CentralBanner.class
+pageobjects\InvestorsFinancialInformation.class
+resources\ExtentReporterNG.class

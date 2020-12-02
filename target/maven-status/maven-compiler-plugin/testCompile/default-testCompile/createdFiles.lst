@@ -1,0 +1,10 @@
+E2ESpicejet\Spicejet\HomePageTest.class
+E2ESpicejet\Spicejet\CentralBannerTests.class
+E2ESpicejet\Spicejet\FooterLinksTests.class
+CucumberOptions\TestRunner.class
+E2ESpicejet\Spicejet\Listeners.class
+E2ESpicejet\Spicejet\BorderLinksTests.class
+E2ESpicejet\Spicejet\FinancialInformationInvestorsTests.class
+E2ESpicejet\Spicejet\FlightSearchTests.class
+E2ESpicejet\Spicejet\LoginSignUpTests.class
+StepDefinitions\LoginStepDefinition.class
